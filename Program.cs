@@ -1,6 +1,6 @@
+
 using API.Extensions;
-using Application.Activities;
-using Application.Core;
+
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -40,3 +40,4 @@ catch (Exception ex)
 
 
 app.Run();
+
